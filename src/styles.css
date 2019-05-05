@@ -32,8 +32,34 @@ html {
 	color: #ffffff;
 }
 
+#count {
+	display: block;
+	font-weight: bold;
+	margin-top: 15px;
+	text-align: center;
+}
+
 .display {
 	text-align: center;
 	display: block;
 	margin: auto;
+}
+
+#totalChart {
+	display: block;
+	margin: auto;
+	width: 100%;
+	margin-top: 20px;
+	padding: 5px;
+	max-height: 38vh;
+
+}
+
+#avgChart {
+	display: block;
+	margin: auto;
+	width: 100%;
+	margin-top: 20px;
+	padding: 5px;
+	max-height: 38vh;
 }
